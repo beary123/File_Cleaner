@@ -1,0 +1,13 @@
+{
+  "name": "mathproxy-uv",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.0",
+    "@tomphttp/bare-server-node": "^1.0.0",
+    "express": "^4.17.1"
+  }
+}
